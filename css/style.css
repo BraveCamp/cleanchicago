@@ -107,6 +107,9 @@ button#trigger-overlay i {
     left: 0;
     width: 100%;
 }
+.button:mouse-over{
+    background-color: black;
+}
 .agileits-banner-info h3 {
     color: rgb(255, 255, 255);
     font-size: 3.5em;

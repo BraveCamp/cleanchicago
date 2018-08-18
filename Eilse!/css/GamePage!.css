@@ -84,6 +84,13 @@ button#trigger-overlay i {
 	color:#fff;
 	font-size:30px;
 }
+.button{
+    color: white;
+    background-color: #1E3888;
+}
+.button:hover{
+    background-color: black;
+}
 .header-w3ls h1 a {
     text-decoration: none;
 	    margin-top: 3px;
@@ -157,10 +164,7 @@ button#trigger-overlay i {
    color: white;
 }
 
-.button
-{
-    color: blue;
-}
+
 
 .fboverlay
 {
